@@ -15,9 +15,7 @@ your-repo/
 │       └── .gitkeep     # Keeps the folder tracked by Git
 │
 ├── project2/
-│   ├── main.py
-│   └── save/
-│       └── .gitkeep
+│   └── main.py
 │
 ├── requirements.txt     # Dependencies for all projects
 └── README.md
